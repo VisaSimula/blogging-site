@@ -1,5 +1,5 @@
 let firebaseConfig = {
-    // Enter your firebase credentials
+// configs here
 };
 
 firebase.initializeApp(firebaseConfig);
